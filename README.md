@@ -1,6 +1,6 @@
 ## Hola 🤙🏼
 
-My name is Jesús and I'm a self-taught freelance frontend web developer based in Guadalajara, México.
+My name is Jesús and I'm a self-taught freelance web developer based in Guadalajara, México.
 
 ### 🚀 Latest Stuff...
 
