@@ -9,13 +9,12 @@ My name is Jesús and I'm a self-taught freelance web developer based in Guadala
 
 ### 🔭 I’m currently working on ...
 
-- I'm also working on a new blog post for my personal blog about my 4 year journey as a self-taught web developer 
-- Also, I've been thinking about redoing my personal website to include my blog and new projects I've made
+- I already started rebuilding my personal website with NextJS, here's the [repo](https://github.com/jesusrmz19/jesusrmz).
 
 ### 🌱 I’m currently learning ...
 
-- I'm in the middle of the Wes Bos Advanced React Course 
-- Learning more about GraphQL, Apollo, and the backend portion
+- I finished almost all of Wes Bos Advanced React Course, there are a couple of modules that he hasn't finished
+- Currently Learning Node.js and Express 
  
 ### 📫 How to reach me: ...
 
