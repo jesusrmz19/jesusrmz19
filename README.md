@@ -4,8 +4,7 @@ My name is Jesús and I'm a self-taught freelance web developer based in Guadala
 
 ### 🚀 Latest Stuff...
 
-- Check out my latest post on [How to create a Parcel Template Repo](https://blog.jesusrmz.com/posts/parcel-template-project).
-- I finished the Frontend Mentor Calculator App, check it out [here](https://calculator.jesusrmz.com/).
+- Come back later!
 
 ### 🔭 I’m currently working on ...
 
@@ -13,7 +12,7 @@ My name is Jesús and I'm a self-taught freelance web developer based in Guadala
 
 ### 🌱 I’m currently learning ...
 
-- I finished almost all of Wes Bos Advanced React Course, there are a couple of modules that he hasn't finished
+- Currently learning about Alogorithms, Big-O, and solving LeetCode Problems
 - Currently Learning Node.js and Express 
  
 ### 📫 How to reach me: ...
